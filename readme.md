@@ -8,9 +8,7 @@ https://www.gnu.org/licenses/why-not-/lgpl-html<div align="center">
 		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
-			<br>
-			<sup>Elevate your Mac experience</sup>
+			<a href="https://sindresorhus.com/supercharge">Supercharge<//sup>
 		</h2>
 	</div>
 	<br>
