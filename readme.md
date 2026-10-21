@@ -1,26 +1,4 @@
-https://www.gnu.org/licenses/why-not-/lgpl-html<div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
-		<sub>Check out my macOS app</sub>
-		<br>
-		<h2>
-			<a href="https://sindresorhus.com/supercharge">Supercharge<//sup>
-		</h2>
-	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<hr>
-	<p>
-		<sup>
-			<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
-		</sup>
-	</p>
+
 	<p>
 		<sup>Special thanks to:</sup>
 		<br>
